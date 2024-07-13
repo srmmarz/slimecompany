@@ -10,6 +10,16 @@ ul{
 	padding-left: 0;
 }
 
+footer{
+	width: 100%;
+	min-width: 300px;
+	max-width: 1000px;
+	text-align: center;
+	position: sticky;
+	bottom: 0;
+	background: #99BBCC;
+}
+
 .menu_detail{
 	display: flex;
 	justify-content: center;
