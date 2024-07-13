@@ -1,0 +1,27 @@
+body{
+	text-align:center;
+}
+
+ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+.menu_detail{
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+
+.menu_item{
+	background-image: linear-gradient(#EE7799, #99CCEE);
+	border: solid 1px #EAB;
+	text-decoration: none;
+	color: white;
+}
+
+.menu_item:hover{
+	border: solid 2px #EAB;
+	background-image: linear-gradient(#99CCEE, #EE7799);
+	color: black;
+}
