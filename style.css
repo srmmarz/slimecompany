@@ -21,6 +21,10 @@ ul{
 	border: solid 1px #EAB;
 	text-decoration: none;
 	color: white;
+	width: 30%;
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
 }
 
 .menu_item:hover{
